@@ -1,4 +1,4 @@
-# Hi there, I'm Taha 👋
+# Hi there, I'm Hafiza Sahar Fatima 👋
 
 ## 🤖 About Me
 I am an **AI/ML Engineer & Full-Stack Developer** with over 5 years of experience. I specialize in machine learning, deep learning, LLMs, and building intelligent applications with Python and Flutter.
@@ -6,7 +6,7 @@ I am an **AI/ML Engineer & Full-Stack Developer** with over 5 years of experienc
 - 🔭 Currently working on **5 AI-powered projects**
 - 🧠 Learning **LLMs, MLOps, and advanced deep learning** every day
 - 💬 Ask me about **AI/ML, Python, Flutter, NLP, and Automation**
-- 📫 How to reach me: [Email Me](mailto:fiverr01help@gmail.com)
+- 📫 How to reach me: [Email Me](mailto:saharfatima4220@gmail.com)
 - ⚡ Fun fact: I turn data into intelligence and ideas into apps!
 
 ***
